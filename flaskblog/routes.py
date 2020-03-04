@@ -14,15 +14,15 @@ posts = [
 		'date_posted': 'February 24, 2020'
 	},
 	{
-		'author': 'Roxanne Miller',
-		'title': 'Vegan Cookie Recipe',
-		'content': 'Chocolate Chip Cookies',
+		'author': 'TP1',
+		'title': 'Title 1',
+		'content': 'Bla bla',
 		'date_posted': 'February 24, 2020'
 	},
 	{
-		'author': 'Rachit Pandey',
-		'title': 'Indian History',
-		'content': 'Building India after 150 years of British Rule',
+		'author': 'TP1',
+		'title': 'Title 2',
+		'content': 'Bla bla',
 		'date_posted': 'February 24, 2020'
 	}
 

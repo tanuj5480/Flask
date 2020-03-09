@@ -12,4 +12,4 @@ This is Corey Schafer's Flask Course on Youtube. Videos structured as below
 * 06-Login-Auth
 * 07-User-Account-Profile-Pic
 * 08-Create, Update, and Delete Posts
-
+* 09-Pagination
